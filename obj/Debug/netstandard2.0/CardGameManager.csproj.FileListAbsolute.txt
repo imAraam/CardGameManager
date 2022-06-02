@@ -1,8 +1,0 @@
-C:\Users\im_ar\OneDrive\Desktop\CardGameManagerRepo\CardGameManager\bin\Debug\netstandard2.0\CardGameManager.deps.json
-C:\Users\im_ar\OneDrive\Desktop\CardGameManagerRepo\CardGameManager\bin\Debug\netstandard2.0\CardGameManager.dll
-C:\Users\im_ar\OneDrive\Desktop\CardGameManagerRepo\CardGameManager\bin\Debug\netstandard2.0\CardGameManager.pdb
-C:\Users\im_ar\OneDrive\Desktop\CardGameManagerRepo\CardGameManager\obj\Debug\netstandard2.0\CardGameManager.csproj.CoreCompileInputs.cache
-C:\Users\im_ar\OneDrive\Desktop\CardGameManagerRepo\CardGameManager\obj\Debug\netstandard2.0\CardGameManager.AssemblyInfoInputs.cache
-C:\Users\im_ar\OneDrive\Desktop\CardGameManagerRepo\CardGameManager\obj\Debug\netstandard2.0\CardGameManager.AssemblyInfo.cs
-C:\Users\im_ar\OneDrive\Desktop\CardGameManagerRepo\CardGameManager\obj\Debug\netstandard2.0\CardGameManager.dll
-C:\Users\im_ar\OneDrive\Desktop\CardGameManagerRepo\CardGameManager\obj\Debug\netstandard2.0\CardGameManager.pdb
