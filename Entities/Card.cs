@@ -1,4 +1,5 @@
 ﻿using CardGameManager.Enums;
+using System;
 
 namespace CardGameManager.Entities
 {
@@ -34,6 +35,21 @@ namespace CardGameManager.Entities
         {
             this._rank = rank;
             this._suit = suit;
+        }
+
+        public bool IsEqualTo(Ranks rank)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool IsHigherThan(Ranks rank)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool IsLowerThan(Ranks rank)
+        {
+            throw new NotImplementedException();
         }
     }
 }
