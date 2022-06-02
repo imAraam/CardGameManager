@@ -50,7 +50,7 @@ namespace CardGameManager.Entities
         {
             throw new NotImplementedException();
         }
-
+         
         private void Shuffle()
         {       
             throw new NotImplementedException();

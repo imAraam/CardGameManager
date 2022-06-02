@@ -13,7 +13,7 @@ namespace CardGameManager.Entities
             }
             set
             {
-                if (this._suit != value)
+                if (this._suit != value) 
                     this._suit = value;
             }
         }

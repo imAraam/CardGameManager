@@ -19,7 +19,7 @@ namespace CardGameManager.Entities
         }
 
         public Hand()
-        {
+        { 
         }
     }
 }

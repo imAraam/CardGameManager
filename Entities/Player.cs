@@ -19,7 +19,7 @@ namespace CardGameManager.Entities
 
         private int _points = 0;
         public int Points
-        {
+        { 
             get
             {
                 return this._points;
